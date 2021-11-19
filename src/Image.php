@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types=1);
-namespace Lhaiping\Imgverify;
+namespace Lhp\Imgverify;
 
 
 /**

@@ -5,9 +5,10 @@
 	"keywords": [
 		"php"
 	],
+	"license": "MIT",
 	"autoload" : {
 		"psr-4" : {
-			"Lhaiping1\\Imgverify\\" : "src"
+			"Lhp\\Imgverify\\" : "src"
 		}
 	},
 	"require" : {
