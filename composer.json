@@ -1,0 +1,19 @@
+{
+	"name" : "lhaiping1/imgverify",
+	"description" : "图形验证",
+	"type": "library",
+	"keywords": [
+		"php"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Lhaiping1\\Imgverify\\" : "src"
+		}
+	},
+	"require" : {
+		"php" : ">=8.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^9.5"
+	}
+}
